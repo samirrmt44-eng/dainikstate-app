@@ -1,0 +1,17 @@
+{
+  "name": "dainikstate-app",
+  "version": "1.0.0",
+  "description": "DainikState Mobile App - राज्य की आवाज़",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'Build complete - static files in www/'"
+  },
+  "keywords": ["dainikstate", "news", "app"],
+  "author": "DainikState",
+  "license": "MIT",
+  "dependencies": {
+    "@capacitor/android": "^6.1.2",
+    "@capacitor/cli": "^6.1.2",
+    "@capacitor/core": "^6.1.2"
+  }
+}
