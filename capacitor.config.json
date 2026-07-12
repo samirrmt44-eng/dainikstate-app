@@ -1,0 +1,16 @@
+{
+  "appId": "com.dainikstate.app",
+  "appName": "DainikState",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "server": {
+    "url": "https://canyou-uqkp.onrender.com/",
+    "cleartext": false,
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": false,
+    "captureInput": true,
+    "webContentsDebuggingEnabled": false
+  }
+}
